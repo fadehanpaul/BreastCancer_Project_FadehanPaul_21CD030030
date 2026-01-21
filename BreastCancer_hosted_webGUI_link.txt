@@ -1,0 +1,6 @@
+Name: Fadehan Paul
+Matric Number: 21CD030030
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method Used: Pickle
+Live URL of Hosted Application: https://breast-cancer-predictor-pdjs.onrender.com
+GitHub Repository Link: https://github.com/fadehanpau/BreastCancer_Project_FadehanPaul_21CD030030
